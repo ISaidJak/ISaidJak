@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ISaidJak
+- 👋 Hi, I’m @jackhassenzahl
 - 👀 I’m interested in 3D printing, CAD, coding/programming, building, speedcubing, lock picking, and chess.
 - 🌱 I’m currently learning how to code.
 
